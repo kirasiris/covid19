@@ -60,4 +60,5 @@ La applicacion fue hecha usando estas technologias:
 }
 ```
 
-Obviamente les dejare el link del repositorio en donde se encontrara el codigo de esta aplicacion ya que bueno....este repositorio contiene unicamente la version build.
+Link de la applicacion en React:
+https://github.com/kirasiris/covid19Code
